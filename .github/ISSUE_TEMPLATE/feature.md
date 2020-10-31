@@ -21,7 +21,7 @@ Explain why this feature should be implemented
 
 Below is a list of tasks that must be completed before this issue can be closed.
 
-- [ ] Documentation (create a Documentation Requirement issue [here](https://github.com/drashland/website/issues/new/choose) and replace this text with the link to the issue)
+- [ ] Documentation (create a Documentation Requirement issue [here](https://github.com/drashland/website/issues/new?assignees=&labels=chore&template=documentation_requirement.md&title=chore%3A+Write+required+documentation+for+%7Brepo+name%7D+pull+request+%23%7Bissue+number%7D) and replace this text with the link to the issue)
 - [ ] Tests
 - [ ] {add more checkboxes required by this issue as needed}
 
