@@ -2,7 +2,8 @@
 
 ## Bug Reports
 
-A bug is a *demonstrable problem* that is caused by the code in the repository. Good bug reports are extremely helpful, so thanks!
+A bug is a *demonstrable problem* that is caused by the code. Good bug reports are extremely helpful, so thanks!
+
 If you want to report a bug, click [here](./issues).
 
 ## Feature Requests
