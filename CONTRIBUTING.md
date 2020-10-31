@@ -3,11 +3,10 @@
 ## Bug Reports
 
 A bug is a *demonstrable problem* that is caused by the code in the repository. Good bug reports are extremely helpful, so thanks!
-If you want to report a bug, click [here](./issues).
 
 ## Feature Requests
 
-We welcome all feature requests, but please take a moment to determine whether or not your idea fits with the scope and aims of the project. It is up to *you* to convince the maintainers of the merits of your feature(s). Please provide as much detail and context as possible. If you want to request a feature, click [here](./issues).
+We welcome all feature requests, but please take a moment to determine whether or not your idea fits with the scope and aims of the project. It is up to *you* to convince the maintainers of the merits of your feature(s). Please provide as much detail and context as possible.
 
 ## Pull Requests
 
@@ -47,4 +46,4 @@ Please **ask first** before embarking on any significant pull request (e.g. impl
 
 ## License
 
-By submitting a patch, you agree to allow the maintainers to license your work under the terms of the [MIT License](../LICENSE).
+By submitting a your code to the Drash Land organization, you agree to allow the maintainers to license your work under the terms of the [MIT License](./LICENSE).
