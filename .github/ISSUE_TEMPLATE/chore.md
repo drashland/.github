@@ -1,6 +1,6 @@
 ---
 name: Chore
-about: Create an issue to improve the codebase
+about: Provide a list of improvement/maintenance tasks
 title: ''
 labels: 'Type: Chore, Priority: Low'
 assignees: ''
