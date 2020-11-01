@@ -4,7 +4,6 @@ about: Create an issue to improve the codebase
 title: ''
 labels: Type: Chore
 assignees: ''
-
 ---
 
 ## Summary
