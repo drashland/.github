@@ -1,7 +1,7 @@
 ---
 name: Chore
 about: Create an issue to improve the codebase
-title: 'chore: {description}'
+title: ''
 labels: chore
 assignees: ''
 
