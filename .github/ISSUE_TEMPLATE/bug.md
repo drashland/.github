@@ -1,27 +1,24 @@
 ---
 name: Bug
-about: Create an issue about a possible bug
+about: Report a  bug
 title: ''
 labels: 'Type: Bug, Remark: Investigation Needed'
 assignees: ''
 
 ---
 
-## Description
+## Summary
 
-Explain (clearly and concisely) what the bug is.
+A clear and concise summary of the bug.
 
-## Steps To Reproduce
+## Steps To Reproduce The Bug
 
-Please list the steps to reproduce this issue. THIS SECTION IS REQUIRED.
+1. These ...
+2. Steps ...
+3. Are ...
+4. Required ...
 
-**Steps**
-
-1. Create app ...
-2. Load app ...
-3. See error ...
-
-## Actual/Expected Behavior
+## Expected Behavior
 
 A clear and concise description of what you expected to happen.
 
@@ -36,4 +33,3 @@ If applicable, add screenshots to help explain your problem.
 ## Additional Context
 
 Add any other context that will help the project maintainers investigate this issue.
-
