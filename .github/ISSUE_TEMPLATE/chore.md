@@ -2,7 +2,7 @@
 name: Chore
 about: Create an issue to improve the codebase
 title: ''
-labels: 'Type: Chore'
+labels: 'Type: Chore, Priority: Low'
 assignees: ''
 
 ---
