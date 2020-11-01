@@ -2,7 +2,7 @@
 name: Bug
 about: Create an issue about a possible bug
 title: ''
-labels: bug
+labels: 'Type: Bug'
 assignees: ''
 
 ---
