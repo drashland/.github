@@ -1,5 +1,5 @@
 ---
-name: Feature
+name: Question
 about: Suggest an idea for this project
 title: ''
 labels: 'Type: Question'
