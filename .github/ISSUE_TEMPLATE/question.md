@@ -1,6 +1,6 @@
 ---
 name: Question
-about: Suggest an idea for this project
+about: Ask us a question
 title: ''
 labels: 'Type: Question'
 assignees: ''
