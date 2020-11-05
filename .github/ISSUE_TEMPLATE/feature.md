@@ -21,8 +21,9 @@ Explain why this feature should be implemented
 
 Below is a list of tasks that must be completed before this issue can be closed.
 
-- [ ] Documentation (create a Documentation Requirement issue at https://github.com/drashland/website/issues/new?assignees=&labels=chore&template=documentation_requirement.md&title=chore%3A+Write+required+documentation+for+%7Brepo+name%7D+issue+%23%7Bissue+number%7D and replace this text with the link to the issue)
-- [ ] Tests
+- [ ] Write documentation
+- [ ] Write unit tests
+- [ ] Write integration tests
 - [ ] {add more checkboxes required by this issue as needed}
 
 ## Example Pseudo Code (for implementation)
@@ -30,4 +31,3 @@ Below is a list of tasks that must be completed before this issue can be closed.
 ```typescript
 // Add example pseudo code for implementation
 ```
-
