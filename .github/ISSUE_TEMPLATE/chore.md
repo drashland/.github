@@ -21,5 +21,6 @@ Explain why this chore should be performed
 
 Below is a list of tasks that must be completed before this issue can be closed.
 
-- [ ] Tests
+- [ ] Write unit tests
+- [ ] Write integration tests
 - [ ] {add more checkboxes required by this issue as needed}
