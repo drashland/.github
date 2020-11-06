@@ -1,5 +1,7 @@
 # Contributing to [Drash Land](https://github.com/drashland/)
 
+___This document was last updated on November 6, 2020. Please review this document if you have not reviewed it on or after this date.___ 
+
 ## Table of Contents
 
 * [Branch Naming Conventions](#branch-naming-conventions)
