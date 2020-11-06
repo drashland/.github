@@ -3,7 +3,6 @@
 ## Table of Contents
 
 * [Branch Naming Conventions](#branch-naming-conventions)
-* [Prepare Commit Messages](#prepare-commit-messages)
 * [Bug Reports](#bug-reports)
 * [Feature Requests](#feature-requests)
 * [Pull Requests](#pull-requests)
