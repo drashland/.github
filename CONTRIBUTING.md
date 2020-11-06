@@ -16,10 +16,10 @@ The issue number should always be the first item in the branch name. For example
 git checkout -b "123-my-branch"
 ```
 
-The issue number should be followed by a description that matches the work needing to be done in the issue. For example, if #123 involves building a cli, then checking out a new branch would look like:
+The issue number should be followed by a description that matches the work needing to be done in the issue. For example, if issue #123 involves fixing a bug related to response.render(), then checking out a new branch would look like:
 
 ```shell
-git checkout -b "123-build-cli"
+git checkout -b "123-fix-response-render-method"
 ```
 
 ## Bug Reports
