@@ -71,7 +71,10 @@ Please **ask first** before embarking on any significant pull request (e.g. impl
 
 ## Code Style Guidelines
 
-Code should follow [Deno Style Guide](https://deno.land/manual/contributing/style_guide).
+Code should follow [Deno Style Guide](https://deno.land/manual/contributing/style_guide) with a few exceptions:
+
+* Copyright Headers are not required.
+* Do not use `Deno.test()` when testing. Use [Rhum](https://github.com/drashland/rhum). Rhum should already be in all projects.
 
 ## License
 
