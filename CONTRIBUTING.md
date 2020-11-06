@@ -1,5 +1,28 @@
 # Contributing to [Drash Land](https://github.com/drashland/)
 
+## Table of Contents
+
+* [Branch Naming Conventions](#branch-naming-conventions)
+* [Prepare Commit Messages](#prepare-commit-messages)
+* [Bug Reports](#bug-reports)
+* [Feature Requests](#feature-requests)
+* [Pull Requests](#pull-requests)
+* [Code Style Guidelines](#code-style-guidelines)
+
+## Branch Naming Conventions
+
+The issue number should always be the first item in the branch name. For example, checking out a new branch for issue #123 looks like:
+
+```shell
+git checkout -b "123-my-branch"
+```
+
+The issue number should be followed by a description that matches the work needing to be done in the issue. For example, if #123 involves building a cli, then checking out a new branch would look like:
+
+```shell
+git checkout -b "123-build-cli"
+```
+
 ## Bug Reports
 
 A bug is a *demonstrable problem* that is caused by the code in the repository. Good bug reports are extremely helpful, so thanks!
@@ -38,7 +61,7 @@ Please **ask first** before embarking on any significant pull request (e.g. impl
 
 ***Note:*** It is recommended that you *"clean up"* your commits before opening a pull request. Maybe take a look at `git rebase --interactive` to do this.
 
-## Code Guidelines
+## Code Style Guidelines
 
 - Code should follow [Deno Style Guide](https://deno.land/manual/contributing/style_guide).
 
