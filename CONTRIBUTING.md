@@ -6,6 +6,7 @@ ___This document was last updated on November 8, 2020. Please review this docume
 
 * [Changelog](#changelog)
 * [Branch Naming Conventions](#branch-naming-conventions)
+* [Preparing Commit Messages](#preparing-commit-messages)
 * [Reporting Bugs](#reporting-bugs)
 * [Requesting New Features](#requesting-new-features)
 * [Creating A Pull Request](#creating-a-pull-request)
