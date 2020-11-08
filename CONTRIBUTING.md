@@ -46,7 +46,7 @@ A bug is a *demonstrable problem* that is caused by the code. Good bug reports a
 
 We welcome all feature requests, but please take a moment to determine whether or not your idea fits with the scope and aims of the project. It is up to *you* to convince the maintainers of the merits of your feature request. Please provide as much detail and context as possible. Also, provide a use case for the feature. Providing a use case is ___required___.
 
-## Creating A Pull Requests
+## Creating A Pull Request
 
 Please **ask first** before embarking on any significant pull request (e.g., implementing features, refactoring code, etc.). Otherwise, you risk spending a lot of time working on something that the maintainers might not want to merge.
 
