@@ -11,6 +11,7 @@ ___This document was last updated on November 8, 2020. Please review this docume
 * [Requesting New Features](#requesting-new-features)
 * [Creating A Pull Request](#creating-a-pull-request)
 * [Code Style Guidelines](#code-style-guidelines)
+* [License](#license)
 
 ## Changelog
 
