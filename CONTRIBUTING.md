@@ -1,14 +1,19 @@
 # Contributing to [Drash Land](https://github.com/drashland/)
 
-___This document was last updated on November 6, 2020. Please review this document if you have not reviewed it on or after this date.___ 
+___This document was last updated on November 8, 2020. Please review this document if you have not reviewed it on or after this date.___
 
 ## Table of Contents
 
+* [Changelog](#changelog)
 * [Branch Naming Conventions](#branch-naming-conventions)
-* [Bug Reports](#bug-reports)
-* [Feature Requests](#feature-requests)
-* [Pull Requests](#pull-requests)
+* [Reporting Bugs](#reporting-bugs)
+* [Requesting New Features](#requesting-new-features)
+* [Creating A Pull Request](#creating-a-pull-request)
 * [Code Style Guidelines](#code-style-guidelines)
+
+## Changelog
+
+You can view all changes to this document [here](https://github.com/drashland/.github/commits/master/CONTRIBUTING.md).
 
 ## Branch Naming Conventions
 
@@ -24,17 +29,19 @@ The issue number should be followed by a description that matches the work needi
 git checkout -b "123-fix-response-render-method"
 ```
 
-## Bug Reports
+## Reporting Bugs
 
-A bug is a *demonstrable problem* that is caused by the code in the repository. Good bug reports are extremely helpful, so thanks!
+A bug is a *demonstrable problem* that is caused by the code. Good bug reports are extremely helpful, so thank you!
 
-## Feature Requests
+## Requesting New Features
 
-We welcome all feature requests, but please take a moment to determine whether or not your idea fits with the scope and aims of the project. It is up to *you* to convince the maintainers of the merits of your feature(s). Please provide as much detail and context as possible.
+We welcome all feature requests, but please take a moment to determine whether or not your idea fits with the scope and aims of the project. It is up to *you* to convince the maintainers of the merits of your feature request. Please provide as much detail and context as possible. Also, provide a use case for the feature. Providing a use case is ___required___.
 
-## Pull Requests
+## Creating A Pull Requests
 
-Please **ask first** before embarking on any significant pull request (e.g. implementing features, refactoring code). Otherwise, you risk spending a lot of time working on something that the maintainers might not want to merge.
+Please **ask first** before embarking on any significant pull request (e.g., implementing features, refactoring code, etc.). Otherwise, you risk spending a lot of time working on something that the maintainers might not want to merge.
+
+Please make sure your pull request addresses the issue at hand ___without extra code bloat___. In other words, do not create a pull request with a complex solution to a simple problem.
 
 1. [Fork](https://help.github.com/articles/fork-a-repo/) the project you want to work on.
 2. Clone your fork.
@@ -65,9 +72,9 @@ Please **ask first** before embarking on any significant pull request (e.g. impl
     ```
 8. [Open a Pull Request](https://help.github.com/articles/about-pull-requests/) with a clear title and description against the `master` branch and follow the instructions in the pull request template.
 
-    As a rule of thumb, ___always___ format your code using `deno fmt` before opening your pull request. Run this as your last single commit. If you forgot to correctly format it, just add a commit with the message *deno fmt* (e.g., `git commit -m "deno fmt"`). The CI will fail if `deno fmt` is not performed.
+    As a rule of thumb, ___always___ format your code using `deno fmt` before opening your pull request. If you forget to format your code, just add a commit with the message *deno fmt* (e.g., `git commit -m "deno fmt"`). The CI will fail if `deno fmt` is not performed.
 
-***Note:*** It is recommended that you *"clean up"* your commits before opening a pull request. Maybe take a look at `git rebase --interactive` to do this.
+Note: It is recommended that you *"clean up"* your commits before opening a pull request. Maybe take a look at `git rebase --interactive` to do this.
 
 ## Code Style Guidelines
 
