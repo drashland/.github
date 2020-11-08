@@ -29,6 +29,14 @@ The issue number should be followed by a description that matches the work needi
 git checkout -b "123-fix-response-render-method"
 ```
 
+## Preparing Commit Messages
+
+We like our commits to be clean. Please prefix your commits with with the issue number you are working on. For example:
+
+```
+git commit -m "[#123] my commit message"
+```
+
 ## Reporting Bugs
 
 A bug is a *demonstrable problem* that is caused by the code. Good bug reports are extremely helpful, so thank you!
