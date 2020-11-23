@@ -1,6 +1,8 @@
 # Contributing to [Drash Land](https://github.com/drashland/)
 
-___This document was last updated on November 8, 2020. Please review this document if you have not reviewed it on or after this date.___
+Contributors are always welcomed!
+
+___This document was last updated on November 22, 2020. Please review this document if you have not reviewed it on or after this date.___
 
 ## Table of Contents
 
