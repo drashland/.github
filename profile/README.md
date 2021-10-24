@@ -1,2 +1,2 @@
-- [Contributing](https://github.com/drashland/.github/blob/master/CONTRIBUTING.md)
 - [Wiki Pages](https://github.com/drashland/.github/wiki)
+- [Contributing](https://github.com/drashland/.github/wiki/Contributing)
