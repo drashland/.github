@@ -7,7 +7,7 @@ ___This document was last updated on October 24, 2021. Please review this docume
 ## Table of Contents
 
 * [Changelog](#changelog)
-* [Preparing Commit Messages](#preparing-commit-messages)
+* [Commit Messages](#commit-messages)
 * [Reporting Bugs](#reporting-bugs)
 * [Requesting New Features](#requesting-new-features)
 * [Creating A Pull Request](#creating-a-pull-request)
