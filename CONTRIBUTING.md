@@ -7,7 +7,6 @@ ___This document was last updated on November 22, 2020. Please review this docum
 ## Table of Contents
 
 * [Changelog](#changelog)
-* [Branch Naming Conventions](#branch-naming-conventions)
 * [Preparing Commit Messages](#preparing-commit-messages)
 * [Reporting Bugs](#reporting-bugs)
 * [Requesting New Features](#requesting-new-features)
@@ -19,27 +18,9 @@ ___This document was last updated on November 22, 2020. Please review this docum
 
 You can view all changes to this document [here](https://github.com/drashland/.github/commits/master/CONTRIBUTING.md).
 
-## Branch Naming Conventions
+## Commit Messages
 
-The issue number should always be the first item in the branch name. For example, checking out a new branch for issue #123 looks like:
-
-```shell
-git checkout -b "123-my-branch"
-```
-
-The issue number should be followed by a description that matches the work needing to be done in the issue. For example, if issue #123 involves fixing a bug related to response.render(), then checking out a new branch would look like:
-
-```shell
-git checkout -b "123-fix-response-render-method"
-```
-
-## Preparing Commit Messages
-
-We like our commits to be clean. Please prefix your commits with with the issue number you are working on. For example:
-
-```
-git commit -m "[#123] my commit message"
-```
+We follow [https://www.conventionalcommits.org/](https://www.conventionalcommits.org/).
 
 ## Reporting Bugs
 
@@ -49,11 +30,11 @@ A bug is a *demonstrable problem* that is caused by the code. Good bug reports a
 
 We welcome all feature requests, but please take a moment to determine whether or not your idea fits with the scope and aims of the project. It is up to *you* to convince the maintainers of the merits of your feature request. Please provide as much detail and context as possible. Also, provide a use case for the feature. Providing a use case is ___required___.
 
-## Creating A Pull Request
+## Creating a Pull Request
 
 Please **ask first** before embarking on any significant pull request (e.g., implementing features, refactoring code, etc.). Otherwise, you risk spending a lot of time working on something that the maintainers might not want to merge.
 
-Please make sure your pull request addresses the issue at hand ___without extra code bloat___. In other words, do not create a pull request with a complex solution to a simple problem.
+Please make sure your pull request addresses the issue at hand ___without extra code bloat___. Do not create a pull request with a complex solution to a simple problem.
 
 1. [Fork](https://help.github.com/articles/fork-a-repo/) the project you want to work on.
 2. Clone your fork.
@@ -74,7 +55,7 @@ Please make sure your pull request addresses the issue at hand ___without extra 
     git checkout master
     git pull upstream master
     ```
-6. Create a new branch (off of the master branch) to contain your additions, modifications, and/or deletions:
+6. Create a new branch (off of the `master` branch) to contain your additions, modifications, and/or deletions:
     ```bash
     git checkout -b <<issue-number>-branch-name>
     ```
