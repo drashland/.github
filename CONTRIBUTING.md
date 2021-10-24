@@ -2,7 +2,7 @@
 
 Contributors are always welcomed!
 
-___This document was last updated on November 22, 2020. Please review this document if you have not reviewed it on or after this date.___
+___This document was last updated on October 24, 2021. Please review this document if you have not reviewed it on or after this date.___
 
 ## Table of Contents
 
