@@ -2,6 +2,7 @@
 name: Chore
 about: Provide a list of improvement/maintenance tasks
 title: 'chore: '
+labe;: ''
 assignees: ''
 
 ---
