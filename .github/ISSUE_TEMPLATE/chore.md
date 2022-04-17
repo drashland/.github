@@ -2,7 +2,6 @@
 name: Chore
 about: Provide a list of improvement/maintenance tasks
 title: ''
-labels: 'Type: Chore, Priority: Low'
 assignees: ''
 
 ---
