@@ -1,7 +1,7 @@
 ---
 name: Chore
 about: Provide a list of improvement/maintenance tasks
-title: ''
+title: 'chore: '
 assignees: ''
 
 ---
