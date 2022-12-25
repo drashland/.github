@@ -1,5 +1,8 @@
+## Get Involved
 
+[Join Drash Land Discord](https://discord.gg/RFsCSaHRWK) | [Contributing Guidelines](https://github.com/drashland/.github/wiki/Contributing)
 
+---
 
 ## Modules Overview
 
@@ -15,9 +18,3 @@
 | [dmm](https://github.com/drashland/dmm)    | [![dmm Latest Release](https://img.shields.io/github/release/drashland/dmm.svg?color=gray&label=)](https://github.com/drashland/dmm/releases/latest)          ![GitHub Release Date](https://img.shields.io/github/release-date/drashland/dmm?logoWidth=40&color=gray&label=)    | [![CI](https://img.shields.io/github/actions/workflow/status/drashland/dmm/master.yml?branch=main&label=)](https://github.com/drashland/dmm/actions/workflows/master.yml?query=branch%3Amain)       | ![Works in the browser](https://img.shields.io/badge/browser-&times;-red)   ![Works in Bun](https://img.shields.io/badge/bun-&times;-red)   ![Works in Deno](https://img.shields.io/badge/deno-&check;-green) ![Works in Node](https://img.shields.io/badge/node-&times;-red) |
 
 _Note: We know there are packages/services out in the wild that can probably make the above modules work in different platforms. The "Works In ..." column we have defined above means, "We have developed and tested this module for the following platform(s) and know it works in the following platform."_
-
----
-
-## Get Involved
-
-[Join Drash Land Discord](https://discord.gg/RFsCSaHRWK) | [Contributing Guidelines](https://github.com/drashland/.github/wiki/Contributing)
